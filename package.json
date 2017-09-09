@@ -34,12 +34,12 @@
   },
   "homepage": "https://github.com/logdna/nodejs#readme",
   "dependencies": {
-    "agentkeepalive": "^2.2.0",
-    "json-stringify-safe": "^5.0.1",
-    "lodash": "^4.13.1",
-    "object-sizeof": "^1.0.10",
-    "request": "^2.73.0",
-    "winston": "^2.2.0"
+    "agentkeepalive": "*",
+    "json-stringify-safe": "*",
+    "lodash": "*",
+    "object-sizeof": "*",
+    "request": "*",
+    "winston": "*"
   },
   "devDependencies": {
     "assert": "^1.4.1",
